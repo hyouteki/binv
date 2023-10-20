@@ -18,7 +18,7 @@ Dynamic **BIN**ary **V**isualization is a way to visualize file binaries indepen
 
 ## Installation
 ``` console
-pip install imgui[full] numpy
+pip install -r requirements.txt
 ```
 
 ## Running
