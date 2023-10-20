@@ -1,4 +1,3 @@
-# Part of ImGui Bundle - MIT License - Copyright (c) 2022-2023 Pascal Thomet - https://github.com/pthom/imgui_bundle
 from imgui_bundle import immapp, hello_imgui, imgui, imgui_md, implot, ImVec2
 from imgui_bundle import im_file_dialog as ifd
 import numpy as np
